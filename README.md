@@ -1,4 +1,4 @@
-#### **Azure DT** {#par:azure_dt}
+#### **Azure DT**  [^1]
 
 Azure Digital Twins ([@meijers2022hands]) is an enterprise-grade DT
 framework deployed as a platform as a service (PaaS) and hosted within
